@@ -1,0 +1,53 @@
+body{
+    padding:50px;
+    background-image: url(Image/GamingBackground3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    color: aliceblue;
+}
+.form-group{
+    margin-bottom:30px;
+}
+/* Style for the admin dashboard */
+
+h1 {
+    color: #343a40;
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 1);
+}
+
+.container {
+    margin-top: 30px;
+}
+
+/* Navbar customizations */
+.navbar {
+    margin-bottom: 20px;
+}
+
+.nav-link {
+    font-size: 16px;
+    color: white !important;
+}
+
+.nav-link:hover {
+    background-color: #495057;
+    border-radius: 5px;
+}
+.table {
+    background-color:lightgray;
+    font-weight: 900;
+}
+.container2 {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
